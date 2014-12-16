@@ -1,0 +1,21 @@
+'global':
+  'exception-reporting':
+    'userId': '2a66718d-2d3f-bd88-9525-fadd82526504'
+  'welcome':
+    'showOnStartup': false
+  'core':
+    'autoHideMenuBar': true
+    'disabledPackages': [
+      'wrap-guide'
+    ]
+    'themes': [
+      'atom-dark-ui'
+      'wombat'
+    ]
+  'editor':
+    'fontSize': 12
+    'tabLength': 4
+    'invisibles': {}
+    'preferredLineLength': 1
+  'minimap': {}
+  'autocomplete-plus-async': {}
